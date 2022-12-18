@@ -9,7 +9,7 @@ The Client, Pewlett-Hackard, will have a large number of retiring employees in t
 
 ### Purpose
 
-This project encompassed creation and sorting of a database from scratch, and as such there was much to do. The Client had no preexisting data amanagement system, only CSVs holding all of their employee information, and so we needed to create a DB to work out of. Using pgAdmin 4 running PostgreSQL 15, all available data was imported in and made malleable for the purposes of analysis, and modified to show only valid data (meaning the current iteration contains zero null values). Having established a workable dataset, I wrote new queries to search for the requested information and was able to generate the results that are in the section following.
+This project encompassed creation and sorting of a database from scratch, and as such there was much to do. The Client had no preexisting data management system, only CSVs holding all of their employee information, and so we needed to create a DB to work out of. Using pgAdmin 4 running PostgreSQL 15, all available data was imported in and made malleable for the purposes of analysis, and modified to show only valid data (meaning the current iteration contains zero null values). Having established a workable dataset, I wrote new queries to search for the requested information and was able to generate the results that are in the section following.
 
 ## Results
 
